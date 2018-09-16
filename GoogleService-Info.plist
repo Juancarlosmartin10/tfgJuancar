@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>38866741319-fabof6026kh8d67n57um63om7m5o14s3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.38866741319-fabof6026kh8d67n57um63om7m5o14s3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHw1QdUGEZMP2nT-XrK4BruUSWEcKV_Vc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>38866741319</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Juancar.FacebookLoginDemo-Inicio</string>
+	<key>PROJECT_ID</key>
+	<string>tfg2018-6bee3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tfg2018-6bee3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:38866741319:ios:b0d73fff496d3ac3</string>
+	<key>DATABASE_URL</key>
+	<string>https://tfg2018-6bee3.firebaseio.com</string>
+</dict>
+</plist>

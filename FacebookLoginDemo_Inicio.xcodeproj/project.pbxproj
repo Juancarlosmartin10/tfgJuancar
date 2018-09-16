@@ -10,8 +10,22 @@
 		13BD9EC51E976BDF00976854 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BD9EC41E976BDF00976854 /* AppDelegate.swift */; };
 		13BD9EC71E976BDF00976854 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BD9EC61E976BDF00976854 /* ViewController.swift */; };
 		13BD9ECA1E976BDF00976854 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13BD9EC81E976BDF00976854 /* Main.storyboard */; };
-		13BD9ECC1E976BDF00976854 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13BD9ECB1E976BDF00976854 /* Assets.xcassets */; };
 		13BD9ECF1E976BDF00976854 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13BD9ECD1E976BDF00976854 /* LaunchScreen.storyboard */; };
+		64692B3BD344134225AEFFAB /* Pods_FacebookLoginDemo_Inicio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F46E9EA4D26A3A6687EEC2BD /* Pods_FacebookLoginDemo_Inicio.framework */; };
+		6925E5AF20ED9FFB00486701 /* CoresterolViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6925E5AE20ED9FFB00486701 /* CoresterolViewController.swift */; };
+		692D9F1020EEF52400EEC700 /* CalculadorBolosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692D9F0F20EEF52400EEC700 /* CalculadorBolosViewController.swift */; };
+		692D9F1220EEF55300EEC700 /* DatosBolosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692D9F1120EEF55300EEC700 /* DatosBolosViewController.swift */; };
+		692D9F1420EEF58C00EEC700 /* BoloPrandialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692D9F1320EEF58C00EEC700 /* BoloPrandialViewController.swift */; };
+		692D9F1620EEF5AB00EEC700 /* BoloCorrectorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692D9F1520EEF5AB00EEC700 /* BoloCorrectorViewController.swift */; };
+		69445BDC20E3FC6800ABA20D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 69445BDB20E3FC6800ABA20D /* GoogleService-Info.plist */; };
+		69445BDE20E4044000ABA20D /* TareasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69445BDD20E4044000ABA20D /* TareasViewController.swift */; };
+		69445BE220E4098C00ABA20D /* ExerciseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69445BE120E4098C00ABA20D /* ExerciseTableViewCell.swift */; };
+		69445BE620E5405F00ABA20D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69445BE520E5405E00ABA20D /* Assets.xcassets */; };
+		69445BE920E67F7000ABA20D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69445BE820E67F7000ABA20D /* LoginViewController.swift */; };
+		69445BEB20E6919E00ABA20D /* IMCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69445BEA20E6919E00ABA20D /* IMCViewController.swift */; };
+		6969245120EC7EE000B7CFEE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6969245020EC7EE000B7CFEE /* Info.plist */; };
+		696DB89720EBEA7B00F18A58 /* HTAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 696DB89620EBEA7B00F18A58 /* HTAViewController.swift */; };
+		696DB89920EC5F5400F18A58 /* TabaquismoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 696DB89820EC5F5400F18A58 /* TabaquismoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +33,26 @@
 		13BD9EC41E976BDF00976854 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13BD9EC61E976BDF00976854 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		13BD9EC91E976BDF00976854 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		13BD9ECB1E976BDF00976854 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13BD9ECE1E976BDF00976854 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13BD9ED01E976BDF00976854 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6925E5AE20ED9FFB00486701 /* CoresterolViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoresterolViewController.swift; sourceTree = "<group>"; };
+		692D9F0F20EEF52400EEC700 /* CalculadorBolosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculadorBolosViewController.swift; sourceTree = "<group>"; };
+		692D9F1120EEF55300EEC700 /* DatosBolosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatosBolosViewController.swift; sourceTree = "<group>"; };
+		692D9F1320EEF58C00EEC700 /* BoloPrandialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoloPrandialViewController.swift; sourceTree = "<group>"; };
+		692D9F1520EEF5AB00EEC700 /* BoloCorrectorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoloCorrectorViewController.swift; sourceTree = "<group>"; };
+		69445BDB20E3FC6800ABA20D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
+		69445BDD20E4044000ABA20D /* TareasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TareasViewController.swift; sourceTree = "<group>"; };
+		69445BE120E4098C00ABA20D /* ExerciseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseTableViewCell.swift; sourceTree = "<group>"; };
+		69445BE520E5405E00ABA20D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		69445BE720E54DE500ABA20D /* FacebookLoginDemo_Inicio.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FacebookLoginDemo_Inicio.entitlements; sourceTree = "<group>"; };
+		69445BE820E67F7000ABA20D /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		69445BEA20E6919E00ABA20D /* IMCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IMCViewController.swift; sourceTree = "<group>"; };
+		6969245020EC7EE000B7CFEE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		696DB89620EBEA7B00F18A58 /* HTAViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTAViewController.swift; sourceTree = "<group>"; };
+		696DB89820EC5F5400F18A58 /* TabaquismoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabaquismoViewController.swift; sourceTree = "<group>"; };
+		A635BBF0188F15C351EE659F /* Pods-FacebookLoginDemo_Inicio.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FacebookLoginDemo_Inicio.release.xcconfig"; path = "Pods/Target Support Files/Pods-FacebookLoginDemo_Inicio/Pods-FacebookLoginDemo_Inicio.release.xcconfig"; sourceTree = "<group>"; };
+		C47B1FBFE720076A5745753E /* Pods-FacebookLoginDemo_Inicio.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FacebookLoginDemo_Inicio.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FacebookLoginDemo_Inicio/Pods-FacebookLoginDemo_Inicio.debug.xcconfig"; sourceTree = "<group>"; };
+		F46E9EA4D26A3A6687EEC2BD /* Pods_FacebookLoginDemo_Inicio.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FacebookLoginDemo_Inicio.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +60,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64692B3BD344134225AEFFAB /* Pods_FacebookLoginDemo_Inicio.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1358D8285221821E7EA35D47 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				13BD9ED01E976BDF00976854 /* Info.plist */,
+				F46E9EA4D26A3A6687EEC2BD /* Pods_FacebookLoginDemo_Inicio.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		13BD9EB81E976BDF00976854 = {
 			isa = PBXGroup;
 			children = (
 				13BD9EC31E976BDF00976854 /* FacebookLoginDemo_Inicio */,
 				13BD9EC21E976BDF00976854 /* Products */,
+				98539DFAF1F478B11E204665 /* Pods */,
+				1358D8285221821E7EA35D47 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +97,36 @@
 		13BD9EC31E976BDF00976854 /* FacebookLoginDemo_Inicio */ = {
 			isa = PBXGroup;
 			children = (
+				69445BE720E54DE500ABA20D /* FacebookLoginDemo_Inicio.entitlements */,
+				69445BDB20E3FC6800ABA20D /* GoogleService-Info.plist */,
+				6969245020EC7EE000B7CFEE /* Info.plist */,
 				13BD9EC41E976BDF00976854 /* AppDelegate.swift */,
 				13BD9EC61E976BDF00976854 /* ViewController.swift */,
 				13BD9EC81E976BDF00976854 /* Main.storyboard */,
-				13BD9ECB1E976BDF00976854 /* Assets.xcassets */,
+				69445BE520E5405E00ABA20D /* Assets.xcassets */,
+				69445BE120E4098C00ABA20D /* ExerciseTableViewCell.swift */,
 				13BD9ECD1E976BDF00976854 /* LaunchScreen.storyboard */,
-				13BD9ED01E976BDF00976854 /* Info.plist */,
+				69445BDD20E4044000ABA20D /* TareasViewController.swift */,
+				69445BE820E67F7000ABA20D /* LoginViewController.swift */,
+				69445BEA20E6919E00ABA20D /* IMCViewController.swift */,
+				696DB89620EBEA7B00F18A58 /* HTAViewController.swift */,
+				696DB89820EC5F5400F18A58 /* TabaquismoViewController.swift */,
+				6925E5AE20ED9FFB00486701 /* CoresterolViewController.swift */,
+				692D9F0F20EEF52400EEC700 /* CalculadorBolosViewController.swift */,
+				692D9F1120EEF55300EEC700 /* DatosBolosViewController.swift */,
+				692D9F1320EEF58C00EEC700 /* BoloPrandialViewController.swift */,
+				692D9F1520EEF5AB00EEC700 /* BoloCorrectorViewController.swift */,
 			);
 			path = FacebookLoginDemo_Inicio;
+			sourceTree = "<group>";
+		};
+		98539DFAF1F478B11E204665 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C47B1FBFE720076A5745753E /* Pods-FacebookLoginDemo_Inicio.debug.xcconfig */,
+				A635BBF0188F15C351EE659F /* Pods-FacebookLoginDemo_Inicio.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +136,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13BD9ED31E976BDF00976854 /* Build configuration list for PBXNativeTarget "FacebookLoginDemo_Inicio" */;
 			buildPhases = (
+				B7675CB87FDE80605B53353E /* [CP] Check Pods Manifest.lock */,
 				13BD9EBD1E976BDF00976854 /* Sources */,
 				13BD9EBE1E976BDF00976854 /* Frameworks */,
 				13BD9EBF1E976BDF00976854 /* Resources */,
+				74E35447DE3058197A9E49CF /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -96,7 +163,13 @@
 				TargetAttributes = {
 					13BD9EC01E976BDF00976854 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = D7MX8X43J2;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -124,20 +197,82 @@
 			buildActionMask = 2147483647;
 			files = (
 				13BD9ECF1E976BDF00976854 /* LaunchScreen.storyboard in Resources */,
-				13BD9ECC1E976BDF00976854 /* Assets.xcassets in Resources */,
+				69445BDC20E3FC6800ABA20D /* GoogleService-Info.plist in Resources */,
+				69445BE620E5405F00ABA20D /* Assets.xcassets in Resources */,
+				6969245120EC7EE000B7CFEE /* Info.plist in Resources */,
 				13BD9ECA1E976BDF00976854 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		74E35447DE3058197A9E49CF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FacebookLoginDemo_Inicio/Pods-FacebookLoginDemo_Inicio-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CarbonKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FacebookLoginDemo_Inicio/Pods-FacebookLoginDemo_Inicio-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B7675CB87FDE80605B53353E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FacebookLoginDemo_Inicio-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		13BD9EBD1E976BDF00976854 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69445BEB20E6919E00ABA20D /* IMCViewController.swift in Sources */,
 				13BD9EC71E976BDF00976854 /* ViewController.swift in Sources */,
+				69445BE220E4098C00ABA20D /* ExerciseTableViewCell.swift in Sources */,
 				13BD9EC51E976BDF00976854 /* AppDelegate.swift in Sources */,
+				69445BE920E67F7000ABA20D /* LoginViewController.swift in Sources */,
+				696DB89720EBEA7B00F18A58 /* HTAViewController.swift in Sources */,
+				696DB89920EC5F5400F18A58 /* TabaquismoViewController.swift in Sources */,
+				6925E5AF20ED9FFB00486701 /* CoresterolViewController.swift in Sources */,
+				692D9F1220EEF55300EEC700 /* DatosBolosViewController.swift in Sources */,
+				692D9F1020EEF52400EEC700 /* CalculadorBolosViewController.swift in Sources */,
+				692D9F1420EEF58C00EEC700 /* BoloPrandialViewController.swift in Sources */,
+				69445BDE20E4044000ABA20D /* TareasViewController.swift in Sources */,
+				692D9F1620EEF5AB00EEC700 /* BoloCorrectorViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,11 +393,14 @@
 		};
 		13BD9ED41E976BDF00976854 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C47B1FBFE720076A5745753E /* Pods-FacebookLoginDemo_Inicio.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FacebookLoginDemo_Inicio/FacebookLoginDemo_Inicio.entitlements;
+				DEVELOPMENT_TEAM = D7MX8X43J2;
 				INFOPLIST_FILE = FacebookLoginDemo_Inicio/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.efectoapple.FacebookLoginDemo-Inicio";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Juancar.FacebookLoginDemo-Inicio";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -270,11 +408,14 @@
 		};
 		13BD9ED51E976BDF00976854 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A635BBF0188F15C351EE659F /* Pods-FacebookLoginDemo_Inicio.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = FacebookLoginDemo_Inicio/FacebookLoginDemo_Inicio.entitlements;
+				DEVELOPMENT_TEAM = D7MX8X43J2;
 				INFOPLIST_FILE = FacebookLoginDemo_Inicio/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.efectoapple.FacebookLoginDemo-Inicio";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Juancar.FacebookLoginDemo-Inicio";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -299,6 +440,7 @@
 				13BD9ED51E976BDF00976854 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
