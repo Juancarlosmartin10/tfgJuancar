@@ -99,7 +99,7 @@ class TabaquismoViewController: UIViewController, UITextFieldDelegate {
                                 let tab = divisor[2]
                                 print(tab)
                                 self.showAlert(title: "Último Tabaquismo", message: "Tu último Tabaquismo es \(tab)")
-                            }
+                            }   
                         }
                     }
                 }else{
